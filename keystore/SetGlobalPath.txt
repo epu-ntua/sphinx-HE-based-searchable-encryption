@@ -1,0 +1,4 @@
+/usr/local/keystore/
+/usr/local/textdata/
+/usr/local/encrypteddata/
+/usr/local/decrypteddata/
